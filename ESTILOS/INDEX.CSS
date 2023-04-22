@@ -2,3 +2,10 @@
 /*Paleta de cores
 verde: #49a09d
 lilás: #5f2c82*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif
+}
